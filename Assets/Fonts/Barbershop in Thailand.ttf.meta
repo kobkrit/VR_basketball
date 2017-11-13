@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f0e13895e9396463c80b92dc198e3e9a
+timeCreated: 1509435901
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Barbershop in Thailand
+  fontNames:
+  - Barbershop in Thailand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
